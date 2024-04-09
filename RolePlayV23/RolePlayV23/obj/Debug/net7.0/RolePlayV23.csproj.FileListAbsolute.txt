@@ -1,0 +1,14 @@
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\bin\Debug\net7.0\RolePlayV23.exe
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\bin\Debug\net7.0\RolePlayV23.deps.json
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\bin\Debug\net7.0\RolePlayV23.runtimeconfig.json
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\bin\Debug\net7.0\RolePlayV23.dll
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\bin\Debug\net7.0\RolePlayV23.pdb
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\RolePlayV23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\RolePlayV23.AssemblyInfoInputs.cache
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\RolePlayV23.AssemblyInfo.cs
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\RolePlayV23.csproj.CoreCompileInputs.cache
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\RolePlayV23.dll
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\refint\RolePlayV23.dll
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\RolePlayV23.pdb
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\RolePlayV23.genruntimeconfig.cache
+C:\Users\malth\Downloads\RolePlayV23\RolePlayV23\obj\Debug\net7.0\ref\RolePlayV23.dll
