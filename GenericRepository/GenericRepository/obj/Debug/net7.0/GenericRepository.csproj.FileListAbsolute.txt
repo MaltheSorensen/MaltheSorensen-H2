@@ -1,0 +1,14 @@
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\bin\Debug\net7.0\GenericRepository.exe
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\bin\Debug\net7.0\GenericRepository.deps.json
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\bin\Debug\net7.0\GenericRepository.runtimeconfig.json
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\bin\Debug\net7.0\GenericRepository.dll
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\bin\Debug\net7.0\GenericRepository.pdb
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\GenericRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\GenericRepository.AssemblyInfoInputs.cache
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\GenericRepository.AssemblyInfo.cs
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\GenericRepository.csproj.CoreCompileInputs.cache
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\GenericRepository.dll
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\refint\GenericRepository.dll
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\GenericRepository.pdb
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\GenericRepository.genruntimeconfig.cache
+C:\Users\malth\Downloads\GenericRepository\GenericRepository\obj\Debug\net7.0\ref\GenericRepository.dll
