@@ -1,0 +1,15 @@
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\bin\Debug\net7.0\GenericsVariance.exe
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\bin\Debug\net7.0\GenericsVariance.deps.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\bin\Debug\net7.0\GenericsVariance.runtimeconfig.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\bin\Debug\net7.0\GenericsVariance.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\bin\Debug\net7.0\GenericsVariance.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.AssemblyInfoInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.AssemblyInfo.cs
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.csproj.CoreCompileInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.sourcelink.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\refint\GenericsVariance.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\GenericsVariance.genruntimeconfig.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\GenericsVariance\obj\Debug\net7.0\ref\GenericsVariance.dll

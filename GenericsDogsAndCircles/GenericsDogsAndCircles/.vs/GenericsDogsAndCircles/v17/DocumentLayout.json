@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\",
+  "WorkspaceRootPath": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\downloads\\genericsdogsandcircles\\genericsdogsandcircles\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsdogsandcircles\\genericsdogsandcircles\\evenbetterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:evenbetterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\downloads\\genericsdogsandcircles\\genericsdogsandcircles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\downloads\\genericsdogsandcircles\\genericsdogsandcircles\\betterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\betterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:betterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\downloads\\genericsdogsandcircles\\genericsdogsandcircles\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsdogsandcircles\\genericsdogsandcircles\\circlecomparebyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:circlecomparebyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsdogsandcircles\\genericsdogsandcircles\\dogcomparebyhight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:dogcomparebyhight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsdogsandcircles\\genericsdogsandcircles\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,24 +50,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "DocumentIndex": 0,
+              "Title": "EvenBetterObjectComparer.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\EvenBetterObjectComparer.cs",
+              "RelativeDocumentMoniker": "EvenBetterObjectComparer.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\EvenBetterObjectComparer.cs",
+              "RelativeToolTip": "EvenBetterObjectComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T08:28:50.385Z",
+              "WhenOpened": "2024-04-10T10:25:13.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BetterObjectComparer.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\BetterObjectComparer.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\BetterObjectComparer.cs",
               "RelativeDocumentMoniker": "BetterObjectComparer.cs",
-              "ToolTip": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\BetterObjectComparer.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\BetterObjectComparer.cs",
               "RelativeToolTip": "BetterObjectComparer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,27 +77,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CircleCompareByX.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\CircleCompareByX.cs",
+              "RelativeDocumentMoniker": "CircleCompareByX.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\CircleCompareByX.cs",
+              "RelativeToolTip": "CircleCompareByX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:22:48.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DogCompareByHight.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\DogCompareByHight.cs",
+              "RelativeDocumentMoniker": "DogCompareByHight.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\DogCompareByHight.cs",
+              "RelativeToolTip": "DogCompareByHight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Dog.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Dog.cs",
               "RelativeDocumentMoniker": "Dog.cs",
-              "ToolTip": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Dog.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Dog.cs",
               "RelativeToolTip": "Dog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T08:28:45.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Circle.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Circle.cs",
               "RelativeDocumentMoniker": "Circle.cs",
-              "ToolTip": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Circle.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Circle.cs",
               "RelativeToolTip": "Circle.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBsAAAAlAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T08:28:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:28:50.385Z",
               "EditorCaption": ""
             }
           ]
