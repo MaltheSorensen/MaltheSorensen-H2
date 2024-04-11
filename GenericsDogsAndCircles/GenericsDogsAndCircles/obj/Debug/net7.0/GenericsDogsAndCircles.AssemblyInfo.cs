@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericsDogsAndCircles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e51c7bd1525ddb567352ec5c4945b2f4c49efa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c12142163d96e97b2d9bacfe1e56e3e8b95bfaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericsDogsAndCircles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericsDogsAndCircles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

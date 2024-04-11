@@ -1,5 +1,8 @@
 ﻿
 #region Dog objects
+using GenericsDogsAndCircles;
+using System.Security.Cryptography;
+
 Dog dog1 = new Dog("King", 70, 55);
 Dog dog2 = new Dog("Spot", 30, 10);
 Dog dog3 = new Dog("Rufus", 80, 40);
@@ -16,4 +19,12 @@ BetterObjectComparer<Dog> DogComparer = new BetterObjectComparer<Dog>();
 BetterObjectComparer<Circle> CircleComparer = new BetterObjectComparer<Circle>();
 Console.WriteLine(DogComparer.Largest(dog1, dog2, dog3));
 Console.WriteLine(CircleComparer.Largest(c1, c2, c3));
+
+EvenBetterObjectComparer comparer = new EvenBetterObjectComparer();
+
+Dog LargestDog = comparer.Largest(dog1, dog2, dog3, new DogCompareByHight);
+Circle LargestCircle = comparer.Largest(c1, c2, c3, new CircleCompareByX);
+
+Console.WriteLine ($"{LargestDog.Name} has a height of {LargestDog.Height}");
+Console.WriteLine($"{LargestCircle.Radius} is the largest circles radius");
 #endregion

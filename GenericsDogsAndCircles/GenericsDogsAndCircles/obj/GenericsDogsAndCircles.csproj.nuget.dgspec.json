@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj": {}
+    "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj": {
+    "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj",
+        "projectUniqueName": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj",
         "projectName": "GenericsDogsAndCircles",
-        "projectPath": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj",
+        "projectPath": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\GenericsDogsAndCircles.csproj",
         "packagesPath": "C:\\Users\\malth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malth\\Downloads\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\obj\\",
+        "outputPath": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsDogsAndCircles\\GenericsDogsAndCircles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\malth\\AppData\\Roaming\\NuGet\\NuGet.Config",
