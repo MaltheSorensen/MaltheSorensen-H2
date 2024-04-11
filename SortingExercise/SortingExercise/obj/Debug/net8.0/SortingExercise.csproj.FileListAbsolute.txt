@@ -1,0 +1,15 @@
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\bin\Debug\net8.0\SortingExercise.exe
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\bin\Debug\net8.0\SortingExercise.deps.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\bin\Debug\net8.0\SortingExercise.runtimeconfig.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\bin\Debug\net8.0\SortingExercise.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\bin\Debug\net8.0\SortingExercise.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.AssemblyInfoInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.AssemblyInfo.cs
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.csproj.CoreCompileInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.sourcelink.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\refint\SortingExercise.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\SortingExercise.genruntimeconfig.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\SortingExercise\SortingExercise\obj\Debug\net8.0\ref\SortingExercise.dll

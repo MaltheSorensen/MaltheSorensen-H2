@@ -1,0 +1,15 @@
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\bin\Debug\net7.0\LambdaAnimals.exe
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\bin\Debug\net7.0\LambdaAnimals.deps.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\bin\Debug\net7.0\LambdaAnimals.runtimeconfig.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\bin\Debug\net7.0\LambdaAnimals.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\bin\Debug\net7.0\LambdaAnimals.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.AssemblyInfoInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.AssemblyInfo.cs
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.csproj.CoreCompileInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.sourcelink.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\refint\LambdaAnimals.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\LambdaAnimals.genruntimeconfig.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\LambdaAnimals\obj\Debug\net7.0\ref\LambdaAnimals.dll

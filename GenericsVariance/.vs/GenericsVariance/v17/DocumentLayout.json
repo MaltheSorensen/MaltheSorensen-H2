@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsvariance\\animalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\animalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|solutionrelative:animalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\collections\\icollectionget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|solutionrelative:collections\\icollectionget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsvariance\\collections\\icollectionset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|solutionrelative:collections\\icollectionset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsvariance\\collections\\icollectionget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|solutionrelative:collections\\icollectionget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsvariance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\genericsvariance\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18E3ADD-597D-4279-9A04-B50D180F6C67}|GenericsVariance.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:12:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AnimalProcessor.cs",
               "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\AnimalProcessor.cs",
               "RelativeDocumentMoniker": "AnimalProcessor.cs",
@@ -51,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ICollectionSet.cs",
               "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Collections\\ICollectionSet.cs",
               "RelativeDocumentMoniker": "Collections\\ICollectionSet.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Collections\\ICollectionSet.cs*",
-              "RelativeToolTip": "Collections\\ICollectionSet.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Collections\\ICollectionSet.cs",
+              "RelativeToolTip": "Collections\\ICollectionSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T06:43:22.853Z",
               "EditorCaption": ""
@@ -68,8 +85,8 @@
               "Title": "ICollectionGet.cs",
               "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Collections\\ICollectionGet.cs",
               "RelativeDocumentMoniker": "Collections\\ICollectionGet.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Collections\\ICollectionGet.cs*",
-              "RelativeToolTip": "Collections\\ICollectionGet.cs*",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Collections\\ICollectionGet.cs",
+              "RelativeToolTip": "Collections\\ICollectionGet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T06:39:01.41Z",
@@ -77,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAvAAAA",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\GenericsVariance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T06:25:04.265Z",
               "EditorCaption": ""

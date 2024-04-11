@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\LambdaAnimals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9342AD-1B12-4EF4-9589-F346A0ECA19A}|LambdaAnimals.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\lambdaanimals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9342AD-1B12-4EF4-9589-F346A0ECA19A}|LambdaAnimals.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9342AD-1B12-4EF4-9589-F346A0ECA19A}|LambdaAnimals.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\lambdaanimals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9342AD-1B12-4EF4-9589-F346A0ECA19A}|LambdaAnimals.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\LambdaAnimals\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\LambdaAnimals\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:09:19.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\LambdaAnimals\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\LambdaAnimals\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:09:15.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
