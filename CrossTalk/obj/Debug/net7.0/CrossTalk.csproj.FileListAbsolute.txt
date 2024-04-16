@@ -1,0 +1,15 @@
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\bin\Debug\net7.0\CrossTalk.exe
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\bin\Debug\net7.0\CrossTalk.deps.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\bin\Debug\net7.0\CrossTalk.runtimeconfig.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\bin\Debug\net7.0\CrossTalk.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\bin\Debug\net7.0\CrossTalk.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.AssemblyInfoInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.AssemblyInfo.cs
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.csproj.CoreCompileInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.sourcelink.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\refint\CrossTalk.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\CrossTalk.genruntimeconfig.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\CrossTalk\obj\Debug\net7.0\ref\CrossTalk.dll

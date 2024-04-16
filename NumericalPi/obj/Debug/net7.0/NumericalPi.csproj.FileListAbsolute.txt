@@ -1,0 +1,15 @@
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\bin\Debug\net7.0\NumericalPi.exe
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\bin\Debug\net7.0\NumericalPi.deps.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\bin\Debug\net7.0\NumericalPi.runtimeconfig.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\bin\Debug\net7.0\NumericalPi.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\bin\Debug\net7.0\NumericalPi.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.AssemblyInfoInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.AssemblyInfo.cs
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.csproj.CoreCompileInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.sourcelink.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\refint\NumericalPi.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\NumericalPi.genruntimeconfig.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\NumericalPi\obj\Debug\net7.0\ref\NumericalPi.dll
