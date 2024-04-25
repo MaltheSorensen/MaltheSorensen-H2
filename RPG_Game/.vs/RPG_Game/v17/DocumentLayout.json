@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\rpg_game\\rpg_gamelogic\\gamemanagement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\gamemanagement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\gamemanagement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\items\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\items\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\items\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\items\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\factories\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\factories\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\interfaces\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\interfaces\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\interfaces\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\interfaces\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1CB119A-E313-4B8D-82AC-A2E380DEDEB6}|RPG_Game\\RPG_Game.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CB119A-E313-4B8D-82AC-A2E380DEDEB6}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\rpg_gamelogic\\units\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\units\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\rpg_game\\rpg_gamelogic\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,100 +30,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUnit.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T08:43:11.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeaponFactory.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:06:40.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IWeapon.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IWeapon.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Interfaces\\IWeapon.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IWeapon.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Interfaces\\IWeapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:06:02.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_Game\\Program.cs",
-              "RelativeDocumentMoniker": "RPG_Game\\Program.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_Game\\Program.cs",
-              "RelativeToolTip": "RPG_Game\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T10:45:12.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Units\\Player.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Units\\Player.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Units\\Player.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Units\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T10:39:53.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Units\\Enemy.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Units\\Enemy.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Units\\Enemy.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Units\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T10:39:50.844Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Sword.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:03:55.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Axe.cs",
-              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Axe.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Items\\Weapons\\Axe.cs",
-              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Axe.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Items\\Weapons\\Axe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:03:28.98Z",
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\ClassDiagram1.cd",
+              "RelativeToolTip": "RPG_GameLogic\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-25T06:40:19.133Z",
               "EditorCaption": ""
             },
             {
@@ -162,7 +48,7 @@
               "RelativeDocumentMoniker": "RPG_GameLogic\\GameManagement\\Game.cs",
               "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\RPG_Game\\RPG_GameLogic\\GameManagement\\Game.cs",
               "RelativeToolTip": "RPG_GameLogic\\GameManagement\\Game.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwG4AAABMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T08:03:29.827Z",
               "EditorCaption": ""
