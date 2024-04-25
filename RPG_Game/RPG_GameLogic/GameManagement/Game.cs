@@ -108,12 +108,18 @@ namespace RPG_GameLogic.GameManagement
                     }
                 }
 
-                Console.WriteLine("Another opponent appears in the distance! do you wish to challange him? (yes/no)");
-                string input = Console.ReadLine();
-                if (input.ToLower() != "yes")
+                Console.WriteLine("Another opponent appears in the distance! Do you wish to challenge them? (yes/no)");
+                string input = Console.ReadLine().ToLower();
+
+                if (input != "no")
+                {
+                    continueFighting = true;
+                }
+                else
                 {
                     continueFighting = false;
                 }
+
             }
         }
     }
