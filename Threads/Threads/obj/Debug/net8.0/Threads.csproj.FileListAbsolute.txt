@@ -1,0 +1,15 @@
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.AssemblyInfoInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.AssemblyInfo.cs
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.sourcelink.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\bin\Debug\net8.0\Threads.exe
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\bin\Debug\net8.0\Threads.deps.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\bin\Debug\net8.0\Threads.runtimeconfig.json
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\bin\Debug\net8.0\Threads.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\bin\Debug\net8.0\Threads.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\refint\Threads.dll
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.pdb
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\Threads.genruntimeconfig.cache
+C:\Users\malth\source\repos\MaltheSorensen-H2\Threads\Threads\obj\Debug\net8.0\ref\Threads.dll

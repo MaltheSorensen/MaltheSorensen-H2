@@ -1,0 +1,14 @@
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\bin\Debug\net8.0\Park-A-Lot-2000.exe
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\bin\Debug\net8.0\Park-A-Lot-2000.deps.json
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\bin\Debug\net8.0\Park-A-Lot-2000.runtimeconfig.json
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\bin\Debug\net8.0\Park-A-Lot-2000.dll
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\bin\Debug\net8.0\Park-A-Lot-2000.pdb
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\Park-A-Lot-2000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\Park-A-Lot-2000.AssemblyInfoInputs.cache
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\Park-A-Lot-2000.AssemblyInfo.cs
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\Park-A-Lot-2000.csproj.CoreCompileInputs.cache
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\Park-A-Lot-2000.dll
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\refint\Park-A-Lot-2000.dll
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\Park-A-Lot-2000.pdb
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\Park-A-Lot-2000.genruntimeconfig.cache
+C:\Users\malth\source\repos\Park-A-Lot-2000\Park-A-Lot-2000\obj\Debug\net8.0\ref\Park-A-Lot-2000.dll

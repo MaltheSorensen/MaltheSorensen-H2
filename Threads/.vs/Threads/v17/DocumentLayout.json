@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\threads\\scopedlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\scopedlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|c:\\users\\malth\\source\\repos\\malthesorensen-h2\\threads\\threads\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScopedLocker.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\Threads\\ScopedLocker.cs",
+              "RelativeDocumentMoniker": "Threads\\ScopedLocker.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\Threads\\ScopedLocker.cs",
+              "RelativeToolTip": "Threads\\ScopedLocker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:54:27.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\Threads\\Vector.cs",
+              "RelativeDocumentMoniker": "Threads\\Vector.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\Threads\\Vector.cs",
+              "RelativeToolTip": "Threads\\Vector.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:08:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\Threads\\Program.cs",
+              "RelativeDocumentMoniker": "Threads\\Program.cs",
+              "ToolTip": "C:\\Users\\malth\\source\\repos\\MaltheSorensen-H2\\Threads\\Threads\\Program.cs",
+              "RelativeToolTip": "Threads\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:07:11.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RPG_Game/1.0.0": {
+        "dependencies": {
+          "RPG_GameLogic": "1.0.0"
+        },
+        "runtime": {
+          "RPG_Game.dll": {}
+        }
+      },
+      "RPG_GameLogic/1.0.0": {
+        "runtime": {
+          "RPG_GameLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPG_Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RPG_GameLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
