@@ -54,6 +54,9 @@ namespace RPG_GameLogic.GameManagement
                     break;
             }
 
+            Console.WriteLine("Game begins, best of luck to you!");
+            Thread.Sleep(1000);
+
             Player player = new Player("Player", "The main character", 135);
 
             bool continueFighting = true;
